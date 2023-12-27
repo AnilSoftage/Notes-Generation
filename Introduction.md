@@ -1,0 +1,1 @@
+Release notes play a crucial role in communicating the changes made in a software project with its users. Keeping release notes up-to-date ensures transparency and helps users understand the latest features, bug fixes, and improvements. GitHub actions provides a powerful and automated way to generate release notes based on your commit messages.
